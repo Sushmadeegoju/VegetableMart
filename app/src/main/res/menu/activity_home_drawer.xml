@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_market"
+            android:icon="@drawable/ic_store_black_24dp"
+            android:title="Market" />
+        <item
+            android:id="@+id/nav_vegetables"
+            android:icon="@drawable/brnjl1"
+            android:title="Vegetables" />
+        <item
+            android:id="@+id/nav_fruits"
+            android:icon="@drawable/banana2"
+            android:title="Fruits" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_myOrders"
+            android:icon="@drawable/ic_shopping_basket_black_24dp"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Account" />
+        <item
+            android:id="@+id/nav_rateUs"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/nav_contactUs"
+            android:icon="@drawable/ic_phone_black_24dp"
+            android:title="Contact Us" />
+    </group>
+
+
+
+</menu>

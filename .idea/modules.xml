@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/VegetableMart.iml" filepath="$PROJECT_DIR$/.idea/VegetableMart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VegetableMart.iml" filepath="$PROJECT_DIR$/VegetableMart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VegetableMart.app.unitTest.iml" />
     </modules>
   </component>
 </project>
