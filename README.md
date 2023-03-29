@@ -1,2 +1,5 @@
 # VegetableMart
-An Android Application built in Java using Android Studio, that simplifies the process of buying groceries online.
+Launched a full-fledged Android application in Google Playstore which simplifies the process of buying groceries
+online. Built an interactive UI using Android XML. The code is written in Java. Used firebase as the database
+to store user, order details.
+Technology Stack: Android Studio, Java, Firebase
